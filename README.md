@@ -20,5 +20,14 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-
+@article{Wang:2025yac,
+    author = "Wang, Yi-Fan and Nitz, Alexander H.",
+    title = "{Search for gravitational waves from eccentric binary black holes with an effective-one-body template}",
+    eprint = "2508.05018",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    reportNumber = "LIGO-P2500464",
+    month = "8",
+    year = "2025"
+}
 ```
