@@ -9,7 +9,7 @@ As gravitational wave astronomy has entered an era of routine detections, it bec
 
 ## Paper Link
 
-[Arxiv Preprint]()
+[Arxiv Preprint](http://arxiv.org/abs/2508.05018)
 
 ## License and Citation
 
