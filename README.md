@@ -9,7 +9,11 @@ As gravitational wave astronomy has entered an era of routine detections, it bec
 
 ## Paper Link
 
-[Arxiv Preprint](http://arxiv.org/abs/2508.05018)
+[Arxiv Preprint](http://arxiv.org/abs/2508.05018), accepted by the Astrophysical Journal.
+
+## Search Results
+
+A [webpage](https://hypatia.aei.mpg.de/~yiwang/pub/ecc/result-sort.html) summarizing all the search results (with many diagnostic plots!)
 
 ## License and Citation
 
