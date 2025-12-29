@@ -26,12 +26,16 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 @article{Wang:2025yac,
     author = "Wang, Yi-Fan and Nitz, Alexander H.",
-    title = "{Search for gravitational waves from eccentric binary black holes with an effective-one-body template}",
+    title = "{Search for Gravitational Waves from Eccentric Binary Black Holes with an Effective-one-body Template}",
     eprint = "2508.05018",
     archivePrefix = "arXiv",
     primaryClass = "gr-qc",
     reportNumber = "LIGO-P2500464",
-    month = "8",
+    doi = "10.3847/1538-4357/ae0f1b",
+    journal = "Astrophys. J.",
+    volume = "993",
+    number = "2",
+    pages = "215",
     year = "2025"
 }
 ```
